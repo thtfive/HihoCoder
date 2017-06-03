@@ -2,4 +2,6 @@ Debug/
 obj/
 bin/
 *.cbp
+*.layout
+*.depend
 
